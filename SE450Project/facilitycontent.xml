@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FacilityContent> 
+
+
+    <Facility Name="Salt Lake City, UT">
+        <Rate>8</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Santa Fe, NM</Name>
+            <Distance>626</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>San Francisco, CA</Name>
+            <Distance>736</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RTF110</Item>
+	<Quantity>200</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>ZTF109</Item>
+	<Quantity>150</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>XTP202</Item>
+	<Quantity>50</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PU238</Item>
+	<Quantity>50</Quantity>
+   </Inventory>
+
+	 </Facility>   
+
+
+    <Facility Name="Oklahoma City, OK">
+        <Rate>12</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Nashville, TN</Name>
+            <Distance>678</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>New Orleans, LA</Name>
+            <Distance>694</Distance>        
+        </NearBy>
+
+    <NearBy>
+            <Name>Santa Fe, NM</Name>
+            <Distance>534</Distance>        
+        </NearBy>
+
+<Inventory>
+	<Item>SR71-D</Item>
+	<Quantity>35</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>JBL3100</Item>
+	<Quantity>70</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>MM35P</Item>
+	<Quantity>100</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PU238</Item>
+	<Quantity>80</Quantity>
+   </Inventory>
+
+	 </Facility>   
+
+
+    <Facility Name="Seattle, WA">
+        <Rate>8</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Fargo, ND</Name>
+            <Distance>1426</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>San Francisco, CA</Name>
+            <Distance>808</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>ABC123</Item>
+	<Quantity>45</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>JBL3100</Item>
+	<Quantity>52</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PL132-C</Item>
+	<Quantity>4</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PU238</Item>
+	<Quantity>60</Quantity>
+   </Inventory>
+
+	 </Facility>   
+ <Facility Name="San Francisco, CA">
+        <Rate>12</Rate>
+        <Cost>300</Cost>
+<NearBy>
+            <Name>Salt Lake City, UT</Name>
+            <Distance>736</Distance>        
+        </NearBy>
+        <NearBy>
+            <Name>Seattle, WA</Name>
+            <Distance>808</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Denver, CO</Name>
+            <Distance>1249</Distance>        
+        </NearBy>
+   <NearBy>
+            <Name>Los Angeles, CA</Name>
+            <Distance>1249</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RL123A</Item>
+	<Quantity>40</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>XLK200B</Item>
+	<Quantity>8</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SR71-D</Item>
+	<Quantity>81</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>CT1928</Item>
+	<Quantity>46</Quantity>
+   </Inventory>
+
+      </Facility>   
+ <Facility Name="Los Angeles, CA">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>San Francisco, CA</Name>
+            <Distance>382</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Phoenix, AZ</Name>
+            <Distance>372</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RX100-3</Item>
+	<Quantity>57</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>JBL3100</Item>
+	<Quantity>60</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>E241i</Item>
+	<Quantity>44</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>XTP202</Item>
+	<Quantity>32</Quantity>
+   </Inventory>
+
+ </Facility>    
+     <Facility Name="Phoenix, AZ">
+        <Rate>8</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Los Angeles, CA</Name>
+            <Distance>372</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Santa Fe, NM</Name>
+            <Distance>480</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RL123A</Item>
+	<Quantity>18</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SR71-D</Item>
+	<Quantity>55</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SN-241-L</Item>
+	<Quantity>22</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>ZTF109</Item>
+	<Quantity>54</Quantity>
+   </Inventory>
+
+ </Facility>    
+     <Facility Name="Denver, CO">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>San Francisco, CA</Name>
+            <Distance>1249</Distance>        
+        </NearBy>
+   <NearBy>
+            <Name>Santa Fe, NM</Name>
+            <Distance>392</Distance>        
+        </NearBy>
+        <NearBy>
+            <Name>Fargo, ND</Name>
+            <Distance>889</Distance>        
+        </NearBy>
+        <NearBy>
+            <Name>St. Louis, MO</Name>
+            <Distance>851</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>ABC123</Item>
+	<Quantity>80</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>RL123A</Item>
+	<Quantity>110</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>RTF110</Item>
+	<Quantity>100</Quantity>
+   </Inventory>
+
+
+ </Facility>    
+     <Facility Name="Santa Fe, NM">
+        <Rate>8</Rate>
+        <Cost>300</Cost>
+<NearBy>
+	<Name>Oklahoma City, OK</Name>
+            <Distance>534</Distance>        
+        </NearBy>
+
+        <NearBy>
+            <Name>Phoenix, AZ</Name>
+            <Distance>480</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Denver, CO</Name>
+            <Distance>392</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>St. Louis, MO</Name>
+            <Distance>1032</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Austin, TX</Name>
+            <Distance>688</Distance>        
+        </NearBy>
+<NearBy>
+            <Name>Salt Lake City, UT</Name>
+            <Distance>626</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RX100-3</Item>
+	<Quantity>144</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>CR2032</Item>
+	<Quantity>280</Quantity>
+   </Inventory>
+ </Facility>    
+     <Facility Name="Fargo, ND">
+        <Rate>8</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Seattle, WA</Name>
+            <Distance>1426</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Denver, CO</Name>
+            <Distance>889</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Chicago, IL</Name>
+            <Distance>643</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>ABC123</Item>
+	<Quantity>25</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>JBL3100</Item>
+	<Quantity>32</Quantity>
+   </Inventory>
+<Inventory>
+	<Item>XLK200B</Item>
+	<Quantity>82</Quantity>
+   </Inventory>
+   
+
+   
+
+ </Facility>    
+     <Facility Name="Austin, TX">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Santa Fe, NM</Name>
+            <Distance>688</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>St. Louis, MO</Name>
+            <Distance>825</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>New Orleans, LA</Name>
+            <Distance>512</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RL123A</Item>
+	<Quantity>66</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>RX100-3</Item>
+	<Quantity>35</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SN-241-L</Item>
+	<Quantity>35</Quantity>
+   </Inventory>
+ </Facility>    
+     <Facility Name="St. Louis, MO">
+        <Rate>12</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Chicago, IL</Name>
+            <Distance>297</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Nashville, TN</Name>
+            <Distance>309</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Austin, TX</Name>
+            <Distance>825</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Santa Fe, NM</Name>
+            <Distance>1032</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Denver, CO</Name>
+            <Distance>851</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>ABC123</Item>
+	<Quantity>70</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SR71-D</Item>
+	<Quantity>45</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PU238</Item>
+	<Quantity>82</Quantity>
+   </Inventory>
+ </Facility>    
+     <Facility Name="Chicago, IL">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Fargo, ND</Name>
+            <Distance>643</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>St. Louis, MO</Name>
+            <Distance>297</Distance>        
+        </NearBy>
+   <NearBy>
+            <Name>New York City, NY</Name>
+            <Distance>790</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Detroit, MI</Name>
+            <Distance>282</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>ABC123</Item>
+	<Quantity>60</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>E241i</Item>
+	<Quantity>64</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>CT1928</Item>
+	<Quantity>20</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>RTF110</Item>
+	<Quantity>110</Quantity>
+   </Inventory>
+<Inventory>
+	<Item>XTP202</Item>
+	<Quantity>20</Quantity>
+   </Inventory>
+
+
+ </Facility>    
+     <Facility Name="New Orleans, LA">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+    <NearBy>
+            <Name>Oklahoma City, OK</Name>
+            <Distance>694</Distance>        
+        </NearBy>
+
+
+
+        <NearBy>
+            <Name>Austin, TX</Name>
+            <Distance>512</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Nashville, TN</Name>
+            <Distance>532</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Atlanta, GA</Name>
+            <Distance>469</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Miami, FL</Name>
+            <Distance>864</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>MM35P</Item>
+	<Quantity>100</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PU238</Item>
+	<Quantity>49</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>ZTF109</Item>
+	<Quantity>120</Quantity>
+   </Inventory>
+ </Facility>    
+     <Facility Name="Nashville, TN">
+        <Rate>8</Rate>
+        <Cost>300</Cost>
+<NearBy>
+            <Name>Oklahoma City, Ok</Name>
+            <Distance>678</Distance>        
+        </NearBy>
+
+        <NearBy>
+            <Name>St. Louis, MO</Name>
+            <Distance>309</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>New Orleans, LA</Name>
+            <Distance>532</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Norfolk, VA</Name>
+            <Distance>706</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RX100-3</Item>
+	<Quantity>78</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>XLK200B</Item>
+	<Quantity>28</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>CR2032</Item>
+	<Quantity>366</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SN-241-L</Item>
+	<Quantity>16</Quantity>
+   </Inventory>
+
+ </Facility>    
+     <Facility Name="Detroit, MI">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Chicago, IL</Name>
+            <Distance>282</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>New York City, NY</Name>
+            <Distance>614</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Boston, MA</Name>
+            <Distance>719</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>JBL3100</Item>
+	<Quantity>117</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SR71-D</Item>
+	<Quantity>8</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>CT1928</Item>
+	<Quantity>72</Quantity>
+   </Inventory>
+  
+ </Facility>    
+      <Facility Name="Boston, MA">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Detroit, MI</Name>
+            <Distance>719</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>New York City, NY</Name>
+            <Distance>215</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>MM35P</Item>
+	<Quantity>47</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PL132-C</Item>
+	<Quantity>3</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>CT1928</Item>
+	<Quantity>65</Quantity>
+   </Inventory>
+   
+ </Facility>    
+     <Facility Name="New York City, NY">
+        <Rate>14</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Boston, MA</Name>
+            <Distance>215</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Detroit, MI</Name>
+            <Distance>614</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Chicago, IL</Name>
+            <Distance>790</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Norfolk, VA</Name>
+            <Distance>363</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RL123A</Item>
+	<Quantity>12</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>CR2032</Item>
+	<Quantity>132</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>E241i</Item>
+	<Quantity>72</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>ZTF109</Item>
+	<Quantity>28</Quantity>
+   </Inventory>
+
+ </Facility>    
+     <Facility Name="Norfolk, VA">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>New York City, NY</Name>
+            <Distance>363</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Nashville, TN</Name>
+            <Distance>706</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Atlanta, GA</Name>
+            <Distance>566</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>MM35P</Item>
+	<Quantity>66</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>RL123A</Item>
+	<Quantity>50</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>XLK200B</Item>
+	<Quantity>14</Quantity>
+   </Inventory>
+ </Facility>    
+     <Facility Name="Atlanta, GA">
+        <Rate>10</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Norfolk, VA</Name>
+            <Distance>566</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>New Orleans, LA</Name>
+            <Distance>469</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>Miami, FL</Name>
+            <Distance>663</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>RX100-3</Item>
+	<Quantity>90</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>E241i</Item>
+	<Quantity>32</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>PU238</Item>
+	<Quantity>120</Quantity>
+   </Inventory>
+ </Facility>    
+     <Facility Name="Miami, FL">
+        <Rate>12</Rate>
+        <Cost>300</Cost>
+        <NearBy>
+            <Name>Atlanta, GA</Name>
+            <Distance>663</Distance>        
+        </NearBy>
+    <NearBy>
+            <Name>New Orleans, LA</Name>
+            <Distance>864</Distance>        
+        </NearBy>
+<Inventory>
+	<Item>MM35P</Item>
+	<Quantity>16</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>JBL3100</Item>
+	<Quantity>44</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SR71-D</Item>
+	<Quantity>15</Quantity>
+   </Inventory>
+   <Inventory>
+	<Item>SN-241-L</Item>
+	<Quantity>28</Quantity>
+   </Inventory>
+<Inventory>
+	<Item>XTP202</Item>
+	<Quantity>88</Quantity>
+   </Inventory>
+
+ </Facility>    
+ 
+</FacilityContent>
+
+
+ 

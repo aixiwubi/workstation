@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OrderContent> 
+
+    <Order Name="TO-001">
+        <Destination>Miami, FL</Destination>
+	   <Ordertime>1</Ordertime>
+        <OrderItems>
+            <Name>ABC123</Name>
+            <Quantity>180</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>CR2032</Name>
+            <Quantity>320</Quantity>        
+        </OrderItems>
+    </Order>
+	
+	<Order Name="TO-002">
+        <Destination>Boston, MA</Destination>
+	   <Ordertime>1</Ordertime>
+        <OrderItems>
+            <Name>PL132-C</Name>
+            <Quantity>5</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>XLK200B</Name>
+            <Quantity>120</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+
+<Order Name="TO-003">
+        <Destination>Seattle, WA</Destination>
+	   <Ordertime>4</Ordertime>
+        <OrderItems>
+            <Name>XTP202</Name>
+            <Quantity>100</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>E241i</Name>
+            <Quantity>105</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+<Order Name="TO-004">
+        <Destination>Phoenix, AZ</Destination>
+	   <Ordertime>10</Ordertime>
+        <OrderItems>
+            <Name>CR2032</Name>
+            <Quantity>200</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>SR71-D</Name>
+            <Quantity>85</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+<Order Name="TO-005">
+        <Destination>Chicago, IL</Destination>
+	   <Ordertime>7</Ordertime>
+        <OrderItems>
+            <Name>XLK200B</Name>
+            <Quantity>120</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>RX100-3</Name>
+            <Quantity>200</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+<Order Name="TO-006">
+        <Destination>Denver, CO</Destination>
+	   <Ordertime>8</Ordertime>
+        <OrderItems>
+            <Name>CT1928</Name>
+            <Quantity>120</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+
+<Order Name="TO-007">
+        <Destination>Seattle, WA</Destination>
+	   <Ordertime>10</Ordertime>
+        <OrderItems>
+            <Name>ZTF109</Name>
+            <Quantity>200</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>RL123A</Name>
+            <Quantity>150</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+<Order Name="TO-008">
+        <Destination>Norfolk, VA</Destination>
+	   <Ordertime>6</Ordertime>
+        <OrderItems>
+            <Name>RX100-3</Name>
+            <Quantity>150</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>MM35P</Name>
+            <Quantity>170</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+
+<Order Name="TO-009">
+        <Destination>Salt Lake City, UT</Destination>
+	   <Ordertime>9</Ordertime>
+        <OrderItems>
+            <Name>PU238</Name>
+            <Quantity>200</Quantity>        
+        </OrderItems>
+	<OrderItems>
+            <Name>XTP202</Name>
+            <Quantity>280</Quantity>        
+        </OrderItems>
+
+
+    </Order>
+    
+</OrderContent>
+
+
+ 
